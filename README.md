@@ -1,2 +1,3 @@
 # 2023-SE-28-DIP-Task-02
 Task 2
+Develop a Python program using OpenCV, NumPy, and Matplotlib to perform fundamental digital image processing operations on a color image. The program should read and display the original image in RGB format and separately show its Red, Green, and Blue channels. Next, convert the image into grayscale and apply thresholding to produce a binary image. After that, perform connected component analysis on the binary image to identify and count distinct objects. Finally, visualize the binary image and the labeled connected components using randomly generated colors for each detected object.
