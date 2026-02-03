@@ -5,4 +5,4 @@ Key features:
 Color Space Conversion (BGR to RGB).
 Image Binarization using Global Thresholding.
 Noise reduction and Object Masking.
-Automated Object Counting using cv2.connectedComponents."
+Automated Object Counting using cv2.connectedComponents.".
